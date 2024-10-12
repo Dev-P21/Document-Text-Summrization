@@ -1,1 +1,1 @@
-# Document & Text Summarization Usin txtai
+# Document & Text Summarization Using txtai
